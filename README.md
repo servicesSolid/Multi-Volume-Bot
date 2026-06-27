@@ -1,7 +1,7 @@
 🚀 PREMIUM VOLUME BOT FOR TOKENS & COINS 🚀
 ● **Important Note:** The .py code provided in this repository is for demonstration purposes only and will **not work in any way**. To activate the full system and enable the volume generation loop, purchasing the Premium Full Version is mandatory. ❗
 
-● **Purchase:** Send a direct message via Telegram to get instant access to the full version, lifetime updates, and setup support. You can also visit our website: **solidmarketing.dev** 💬
+● Purchase: Send a direct message via Telegram to get instant access to the full version, lifetime updates, and setup support. You can also visit our website: [solidmarketing.dev](https://solidmarketing.dev) 💬
 
 ● Pricing: Flexible and negotiable pricing models based on your project’s specific needs. 👍
 
