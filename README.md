@@ -9,8 +9,8 @@
 ---
 
 ### 📬 Contact & Purchase
-*   **How to Buy:** Send a direct message via Telegram to get instant access to the full version, lifetime updates, and setup support.
-*   **Official Website:** You can also visit our website at [solidmarketing.dev](https://solidmarketing.dev) 💬
+*   **How to Buy:** Send a direct message via Telegram to [@solidmarketing](https://t.me/solidmarketing) to get instant access to the full version, lifetime updates, and setup support. 💬
+*   **Official Website:** You can also visit our website at [solidmarketing.dev](https://solidmarketing.dev) 🌐
 *   **Pricing:** Flexible and negotiable pricing models tailored specifically to your project’s needs. 👍
 
 ---
@@ -38,4 +38,4 @@
 ### 💡 Elevate Your Project
 *Boost your project’s credibility, attract real investors, and stand out in the market!*
 
-💬 **[DM us on Telegram](https://t.me/YOUR_TELEGRAM_USERNAME) for more info, live proof, and pricing details!**
+💬 **[DM us on Telegram (@solidmarketing)](https://t.me/solidmarketing) for more info, live proof, and pricing details!**
